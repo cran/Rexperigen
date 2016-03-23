@@ -1,8 +1,8 @@
-e171cce1d3108328eb0fd9662445e47d *DESCRIPTION
+1dc6ce635080d26ba4561d55dd3390c9 *DESCRIPTION
 50f50992ad63d355504253076c349bdd *NAMESPACE
-a278e7637fd63f91fe01c1290758426d *NEWS.md
+a54a74e121a6ca7a1524a1e93a040d8b *NEWS.md
 0a930f5cb063787e7bfdb1a5396bb255 *R/Rexperigen.R
-b4adc8df97bcffe5c2273ccebc845bb7 *R/download.R
+b26e36962cc35a72c80d68bb6c0696b9 *R/download.R
 e81e598c02ad8e7e1fc982221d743dd7 *R/registration.R
 ef1c4325ce2aa0b6e630c998951dae4e *R/server.R
 d3da8f56a3bb86078e8c112c93135138 *R/utilities.R
@@ -29,7 +29,7 @@ c8ee6bce4673e9ce177cc02f3fb85bcd *man/registerExperiment.Rd
 de965ba29700d4f659e02eba5eb499f4 *man/setExperigenServer.Rd
 5b446dcfa2c10fa9c9702c3440c9561d *man/versionMain.Rd
 a0ec6da620b9830ccb6261457bcb81b9 *tests/testthat.R
-6a770479275a259708da29e37f6211d8 *tests/testthat/test-download.R
+943fdada1d5ad08fbdf24bee40de8f7e *tests/testthat/test-download.R
 fc645d7f506597e92281e8029b432349 *tests/testthat/test-registration.R
 9726365adc38edaff6b9ccbc581bc900 *tests/testthat/test-server.R
 3076490d84f747aea7499e31485877c7 *tests/testthat/test-utils.R

@@ -1,6 +1,6 @@
 Package: Rexperigen
 Title: R Interface to Experigen
-Version: 0.1.0
+Version: 0.2.0
 Authors@R: person("Daniel", "Szeredi", email = "daniel@szeredi.hu", role = c("aut", "cre"))
 Maintainer: Daniel Szeredi <daniel@szeredi.hu>
 Description: Provides convenience functions to communicate with
@@ -14,7 +14,7 @@ Imports: RCurl, digest, jsonlite
 Suggests: testthat
 RoxygenNote: 5.0.1
 NeedsCompilation: yes
-Packaged: 2016-02-26 22:34:02 UTC; dani
+Packaged: 2016-03-22 01:25:32 UTC; dani
 Author: Daniel Szeredi [aut, cre]
 Repository: CRAN
-Date/Publication: 2016-02-27 09:56:31
+Date/Publication: 2016-03-23 00:23:03
