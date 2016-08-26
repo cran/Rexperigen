@@ -33,6 +33,10 @@ downloadExperiment <- function(sourceURL, experimentName,
                        ndjson = "true"
                    ),
                    auth = request$auth)
+        ## newlines can magically disappear, fix that
+        if(grepl("\\}\\{", res)){
+            res <- gsub("\\}\\{", "\\}\n\\{", res)
+        }
         jsonlite::stream_in(textConnection(res), verbose = FALSE)
     }
     else {
